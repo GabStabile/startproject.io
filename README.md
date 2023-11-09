@@ -17,7 +17,8 @@
 
 ## Acesse em:
 - Disponível para Web com responsividade e Smartphones (Android e iOS).
-- Link: https://gabstabile.github.io/startproject.io/
+- Link hospedado GitHub: https://gabstabile.github.io/startproject.io/
+- Link hospedado Netfly: https://startprojectmkt.netlify.app/
 
 ## Objetivo:
 Este projeto consiste em uma empresa de marketing digital, e trabalhei nesse site para obter uma ideia do conteúdo que podemos trabalhar para alcançarmos nossos clientes.
